@@ -1,0 +1,41 @@
+* {
+    /* background-color: #0b0c10; */
+    background-color: #05386b;
+    color: #66fcf1;
+
+}
+
+form{
+    background-color: #05386b;
+}
+
+main {
+    margin-top: 50px ;
+}
+
+.title {
+    position: fixed;
+    top: -15px;
+}
+
+p, h2, header {
+    color: #c5c6c7;
+}
+
+li {
+    margin-top: 50px ;
+    display: inline;
+}
+
+p {
+    width: 30%;
+}
+
+form div {
+    width: 	200px;
+    margin: 0 auto;
+}
+
+input {
+    background-color: white;
+}
